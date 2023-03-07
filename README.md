@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter and Java.<br>👯 I’m looking to collaborate on System Design Patterns<br>🌱 I’m currently learning Advanced Data Structures<br>💬 Ask me about Coding Competitions<br>⚡ Fun fact Java is better than C++
+🔭 I’m currently working on Flutter and Java<br>👯 I’m looking to collaborate on System Design Patterns<br>🌱 I’m currently learning Advanced Data Structures<br>💬 Ask me about Coding Competitions<br>⚡ Fun fact Java is better than C++
 
 
 ## 🌐 Socials:
